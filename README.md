@@ -6,8 +6,6 @@
 [![Downloads](https://img.shields.io/github/downloads/lalakii/MouseClickTool/total)](https://github.com/lalakii/MouseClickTool/releases)
 [![MouseClickTool.exe Windows Program](https://img.shields.io/badge/windows-.exe-0078D4?logo=windows)](https://mouseclicktool.sourceforge.io/)
 
-[ [简体中文](./README.md) | [English](./README_en.md) ]
-
 > A simple and easy-to-use mouse auto-clicker.
 
 ## Features
